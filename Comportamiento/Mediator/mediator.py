@@ -36,13 +36,13 @@ class Componente:
 # Definición de la clase Componente A
 class ComponenteA(Componente):
     def recibir_mensaje(self, mensaje):
-        print("Componente A mensaje recibido: {}".format(mensaje))
+        print(f"Componente A mensaje recibido: {mensaje}")
 
 
 # Definición de la clase Componente B
 class componenteB(Componente):
     def recibir_mensaje(self, mensaje):
-        print("Componente B mensaje recibido: {}".format(mensaje))
+        print(f"Componente B mensaje recibido: {mensaje}")
 
 
 # Creación de los objetos necesarios
