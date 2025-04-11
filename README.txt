@@ -18,6 +18,7 @@ Dentro de los patrones de diseño de Comportamiento se encuentran:
 - Observer
 - State
 - Strategy
+- Template
 - Visitor
 
 Dentro de los patrones Creacionales se encuentran:
